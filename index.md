@@ -4,7 +4,7 @@
 
 **This is bold text**
 
-### > This is a quote
+> This is a quote
 
 ![Example Image](example.avif)
 
